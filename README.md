@@ -1,4 +1,4 @@
-<img width="340" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/0e31a2e5-56bb-45f8-b832-f911e7dde409"># Introducing... IntegraGraphVisual!
+# Introducing... IntegraGraphVisual!
   
 The concept of integration can be confusing for most students (especially for those who are learning it for the first time) after all, it's a relatively more advanced concept that builds upon one's understanding of derivatives. To simplify integration, we decided to create a tool that would visualize the integration process -- IntegraGraphVisual.  
   
