@@ -23,8 +23,8 @@ IntegraGraphVisual is an integral graphing calculator designed to help undergrad
 <img width="299" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/0fdb03cb-12ea-4c4d-b32b-7c3e483a4c50">  
 <img width="340" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/cc9adac9-552a-4227-844e-a17de8f3209e">  
   
-### Prototype 4: This was our final prototype where we tried gathering all of the past feedback from our interviewees and implemented their recommendations as well as fixed some features to ensure a smooth experience for all potential users. 
-#### We stuck to recreating prototype two mockups in Elm, adding in color and implementing the _Definitions_ page as well as the _About_ page.  
+### Prototype 4:   
+#### This was our final prototype where we gathered all of the past feedback from our interviewees and tried to implement their recommendations, fixing some features along the way to ensure a smooth experience for all potential users.  
 <img width="444" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/323c2a78-a140-4082-bdf4-8bb0e5b6e87f">
 <img width="403" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/9b0bf9a6-2eef-4b59-bb7e-449a2d99ad36">
 <img width="396" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/29400b37-6edb-4e50-97ca-bf0db08b5ee6">
