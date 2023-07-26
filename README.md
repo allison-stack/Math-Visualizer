@@ -22,6 +22,17 @@ IntegraGraphVisual is an integral graphing calculator designed to help undergrad
 <img width="368" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/8d22074c-3655-48ac-8ccd-a1b085ea487a">  
 <img width="299" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/0fdb03cb-12ea-4c4d-b32b-7c3e483a4c50">  
 <img width="340" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/cc9adac9-552a-4227-844e-a17de8f3209e">  
+  
+### Prototype 4: This was our final prototype where we tried gathering all of the past feedback from our interviewees and implemented their recommendations as well as fixed some features to ensure a smooth experience for all potential users. 
+#### We stuck to recreating prototype two mockups in Elm, adding in color and implementing the _Definitions_ page as well as the _About_ page.  
+<img width="444" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/323c2a78-a140-4082-bdf4-8bb0e5b6e87f">
+<img width="403" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/9b0bf9a6-2eef-4b59-bb7e-449a2d99ad36">
+<img width="396" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/29400b37-6edb-4e50-97ca-bf0db08b5ee6">
+<img width="395" alt="image" src="https://github.com/allison-stack/Math-Visualizer/assets/75755575/3927efc6-a2da-4443-ac6d-af7e60e03b4f">  
+  
+In conclusion, this project was very exciting to work on. We all learned a lot more about integration as a group and were able to make use of our strengths/skillsets to develop this web-based application of ours. I think we can all agree that it was definitely exciting to see our creation help as well as inspire others.  
+  
+Next steps: There are some functionalities we still aim to keep working on (such as allowing the user to input their own custom functions) so keep a look out for future updates!
 
 
 
